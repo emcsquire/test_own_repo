@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook
+  xmlns:x="urn:schemas-microsoft-com:office:excel"
+  xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+  xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">
+
+<Styles>
+ <Style ss:ID="Default" ss:Name="Normal">
+  <Alignment ss:Vertical="Bottom"/>
+  <Borders/>
+  <Font/>
+  <Interior/>
+  <NumberFormat/>
+  <Protection/>
+ </Style>
+ <Style ss:ID="s27">
+  <Font x:Family="Swiss" ss:Color="#0000FF" ss:Bold="1"/>
+ </Style>
+ <Style ss:ID="s21">
+  <NumberFormat ss:Format="yyyy\-mm\-dd"/>
+ </Style>
+ <Style ss:ID="s22">
+  <NumberFormat ss:Format="yyyy\-mm\-dd\ hh:mm:ss"/>
+ </Style>
+ <Style ss:ID="s23">
+  <NumberFormat ss:Format="hh:mm:ss"/>
+ </Style>
+</Styles>
+
+ <Worksheet ss:Name="Sheet1">
+  <ss:Table>
+   <ss:Row>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">names</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">activedir_id</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">employeeno</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">branch</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">SARAH JANE CUYBA</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">stcuyba</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">651</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">BT</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">DADO ENDOZO</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">dbendozo</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">851</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">BT</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">JENEN SOLIS</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">jmsolis</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">522</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">BT</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">JOHN HERVIE ALMENDRAS</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">jmalmendras</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">827</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">BT</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">JS DIMAANAO</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">jsdimaano</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">896</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">BT</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">NIEL DONES</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">nmdones</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">919</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">BT</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">KENNETH DIMAILIG</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">kddimailig</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">953</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">BT</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">ROMELITO VALENCIA</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">ravalencia</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">958</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">BT</Data></ss:Cell>
+   </ss:Row>
+  </ss:Table>
+ </Worksheet>
+</Workbook>
